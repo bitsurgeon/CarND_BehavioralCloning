@@ -1,4 +1,6 @@
-# Behavioral Cloning _- Self-Driving Car Engineer Nanodegree_
+# Behavioral Cloning
+
+## _A project of Self-Driving Car Engineer Nanodegree_
 
 [![Udacity - Self-Driving Car Engineer Nanodegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)  
 
