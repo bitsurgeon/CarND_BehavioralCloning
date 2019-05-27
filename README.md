@@ -16,7 +16,7 @@ In this project, you, as a driver, need to train a neural network to keep a car 
 
 ## The model architecture
 
-The model used in this project contains 9 layers, including a normalization layer, 5 convolutional layers, and 3 fully connected layers. It is inspired by a research [paper](http://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) published by Nvidia Self-driving Team.
+The model used in this project contains 9 layers, including a normalization layer, 5 convolutional layers, and 3 fully connected layers. It is inspired by PilotNet mentioned in a research [paper](http://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) published by Nvidia Self-driving Team.
 
 - the normalization layer
   - used to cut off unrelated information from the camera image, such as sky, trees, and car botnet, which will make the model more generalized
